@@ -70,7 +70,7 @@ Provides deeper insights into marketing performance, device behavior, and produc
 - Revenue Contribution by Product
 
 📸 *Dashboard Preview – Marketing & Product Insights*  
-![Marketing & Product Insights](dashboard_preview_page2.png)
+![Marketing & Product Insights](https://github.com/Gargiparlikar/Maven-Fuzzy-Factory-E-Commerce-Growth-Conversion-Dashboard/blob/main/Marketing%20channel%20performance%20page2.png)
 
 ---
 
