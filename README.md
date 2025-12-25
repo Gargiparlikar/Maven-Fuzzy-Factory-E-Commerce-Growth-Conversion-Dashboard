@@ -55,7 +55,7 @@ Provides a high-level summary of business performance, focusing on growth, conve
 - Revenue per Session Trend
 
 📸 *Dashboard Preview – Executive Overview*  
-![Executive Overview](dashboard_preview_page1.png)
+![Executive Overview](https://github.com/Gargiparlikar/Maven-Fuzzy-Factory-E-Commerce-Growth-Conversion-Dashboard/blob/main/executive%20overview%20page1.png)
 
 ---
 
